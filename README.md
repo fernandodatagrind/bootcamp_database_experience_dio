@@ -2,7 +2,7 @@
 src="https://hermes.digitalinnovation.one/tracks/7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Algoritmo-Python-Geek-University&color=yellow" alt="Profile views" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-fernandodatagrind&label=REPOSITORY+VIEWS)
 
 # Bootcamp Database Experience.
 
