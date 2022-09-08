@@ -28,10 +28,11 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 
 
-## Respostas do Desafio 
+## Respostas do Desafio
 
-- Para o Clinete foram criadas duas novas entidades Pessoa_PJ e Pessoa_PF contendo as informações de forma detalahada e intefificada por CNPJ(Pessoa_PJ) e CPF(Pessoa_PF). 
-- No caso de Pagamento a entidade esta atribuida a outras duas entidades afim de detalhar as formas de pagamento : Cartão e Boleto.
-- Entrega foi criada para armazenar as informações de envio de cada pedido detalhar como data do pedido, data de envio e data de entrega.  
+- Para o Cliente foram criadas duas novas entidades Pessoa_PJ e Pessoa_PF contendo as informações de forma detalhada e intensificada por CNPJ(Pessoa_PJ) e CPF(Pessoa_PF).
+- No caso de Pagamento a entidade esta atribuída a outras duas entidades afim de detalhar as formas de pagamento : Cartão e Boleto.
+- Entrega foi criada para armazenar as informações de envio de cada pedido detalhar como data do pedido, data de envio e data de entrega.
+
 
 ## Autores
